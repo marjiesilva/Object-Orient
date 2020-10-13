@@ -1,0 +1,3 @@
+The students name is: marj
+The students year is: senior
+The students gpa is: 3.4
